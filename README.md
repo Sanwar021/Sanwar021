@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-[![header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:0d0d2b,70:1a0533,100:0a0a0f&height=200§ion=header&text=SANWAR%20ISLAM&fontSize=56&fontColor=FF7B00&animation=twinkling&fontAlignY=40&stroke=A855F7&strokeWidth=3&desc=Data%20Scientist%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Researcher&descAlignY=62&descSize=18&descColor=C084FC)](https://github.com/Sanwar021)
+[![header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:0d0d2b,70:1a0533,100:0a0a0f&height=200&section=header&text=SANWAR%20ISLAM&fontSize=56&fontColor=FF7B00&animation=twinkling&fontAlignY=40&stroke=A855F7&strokeWidth=3&desc=Data%20Scientist%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Researcher&descAlignY=62&descSize=18&descColor=C084FC)](https://github.com/Sanwar021)
 
 <!-- SOCIAL BADGES -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sanwarul--ai--folio-FF7B00?style=for-the-badge&logoColor=white)](https://sanwar-islam.vercel.app/)
@@ -17,10 +17,21 @@
 
 ---
 
-<!-- ANIMATED BIO -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"/> `whoami`
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanwar021&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D18&title_color=FF7B00&text_color=C084FC" />
+<div align="center">
+
+<!-- TOP META BADGES -->
+![Name](https://img.shields.io/badge/👤_Name-Sanwar%20Islam-FF7B00?style=flat-square&labelColor=0d0d18)
+![Alias](https://img.shields.io/badge/🔖_Alias-Sanwar021-A855F7?style=flat-square&labelColor=0d0d18)
+![Location](https://img.shields.io/badge/📍_Location-Dhaka%2C%20Bangladesh-22D3EE?style=flat-square&labelColor=0d0d18)
+![Status](https://img.shields.io/badge/🟢_Status-Available%20for%20Collab-22c55e?style=flat-square&labelColor=0d0d18)
+
+</div>
+
+<br/>
+
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanwar021&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D18&title_color=FF7B00&text_color=C084FC" />
 
 ```python
 class SanwarIslam:
@@ -39,8 +50,8 @@ class SanwarIslam:
         self.building    = "Upasham Prescription 💊 (React + Go + PostgreSQL)"
         self.portfolio   = "https://sanwarul-ai-folio.vercel.app/"
         self.hobbies     = ["Research 🔬", "Gaming 🎮", "Open Source", "Coffee ☕"]
-        self.papers      = 9  # Google Scholar publications
-        self.citations   = 3  # and counting...
+        self.papers      = 9   # Google Scholar publications
+        self.citations   = 3   # and counting...
         self.available   = True
 
     def say_hi(self):
@@ -49,6 +60,26 @@ class SanwarIslam:
 me = SanwarIslam()
 me.say_hi()
 ```
+
+<br/>
+
+<!-- OUTPUT LINE -->
+<div align="center">
+
+```
+▶ Output:  "Let's collaborate and build something impactful! 🚀"
+```
+
+</div>
+
+<!-- QUICK STAT BADGES -->
+<div align="center">
+
+![Papers](https://img.shields.io/badge/📄_Publications-9_Papers-FF7B00?style=for-the-badge&labelColor=0d0d18)
+![Citations](https://img.shields.io/badge/🔗_Citations-3_%26_Counting-A855F7?style=for-the-badge&labelColor=0d0d18)
+![Available](https://img.shields.io/badge/🤝_Open_To-Collaborate-22c55e?style=for-the-badge&labelColor=0d0d18)
+
+</div>
 
 ---
 
@@ -186,4 +217,4 @@ me.say_hi()
 
 <br/>
 
-[![footer](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:0d0d2b,70:1a0533,100:0a0a0f&height=130§ion=footer&animation=twinkling&stroke=A855F7&strokeWidth=1)](https://github.com/Sanwar021)
+[![footer](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:0d0d2b,70:1a0533,100:0a0a0f&height=130&section=footer&animation=twinkling&stroke=A855F7&strokeWidth=1)](https://github.com/Sanwar021)

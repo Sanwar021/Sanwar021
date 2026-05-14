@@ -21,75 +21,158 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=1200&color=F97316&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=28&lines=ML+Engineer+%E2%80%A2+AI+Researcher+%E2%80%A2+Published+Author;9+Research+Papers+%C2%B7+Springer+%C2%B7+IEEE+%C2%B7+SCOPUS;Building+the+future+of+Medical+AI+%F0%9F%94%AC;Open+to+Remote+ML+%2F+AI+Roles+%F0%9F%9F%A2" alt="Typing SVG" />
 
-</div>
+<br/><br/>
 
-<br/>
+<svg width="780" height="522" viewBox="0 0 780 522" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0%" stop-color="#0d0d1c"/>
+      <stop offset="100%" stop-color="#100f22"/>
+    </linearGradient>
+    <linearGradient id="topAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#0d0d1c"  stop-opacity="0"/>
+      <stop offset="30%"  stop-color="#F97316"  stop-opacity="0.85"/>
+      <stop offset="70%"  stop-color="#8B5CF6"  stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#0d0d1c"  stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="statBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.01"/>
+    </linearGradient>
+    <linearGradient id="awardBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#F97316" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.08"/>
+    </linearGradient>
+    <linearGradient id="statusBg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#16a34a" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#16a34a" stop-opacity="0.05"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#8B5CF6" stroke-width="0.35" stroke-opacity="0.1"/>
+    </pattern>
+    <clipPath id="cardClip"><rect x="0" y="0" width="780" height="522" rx="18"/></clipPath>
+  </defs>
 
-<table>
-<tr>
-<td width="52%" valign="top">
+  <!-- Card -->
+  <rect x="0" y="0" width="780" height="522" rx="18" fill="url(#cardBg)" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.2"/>
+  <!-- Grid -->
+  <rect x="0" y="0" width="780" height="522" rx="18" fill="url(#grid)" clip-path="url(#cardClip)"/>
+  <!-- Ambient orbs -->
+  <ellipse cx="70"  cy="90"  rx="190" ry="140" fill="#8B5CF6" fill-opacity="0.055"/>
+  <ellipse cx="710" cy="440" rx="160" ry="120" fill="#F97316" fill-opacity="0.05"/>
+  <!-- Top accent line -->
+  <rect x="100" y="0" width="580" height="1.5" fill="url(#topAccent)"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f1a,100:0f0f1a&height=2&section=header&stroke=8B5CF6&strokeWidth=1" width="100%"/>
+  <!-- ── HEADER ── -->
+  <text x="36" y="46"
+    font-family="'JetBrains Mono',Courier,monospace"
+    font-size="11" fill="#F97316" fill-opacity="0.78" letter-spacing="2">// IDENTITY.JSON</text>
 
-**`// SANWAR ISLAM — identity.json`**
+  <text x="36" y="85"
+    font-family="Arial,Helvetica,sans-serif"
+    font-size="30" font-weight="bold" fill="#e8e4f0" letter-spacing="-0.5">Sanwar Islam</text>
 
-```yaml
-name:        Sanwar Islam
-alias:       Sanwar021
-location:    Dhaka, Bangladesh 🇧🇩
-university:  East West University
-title:       ML Engineer · AI Researcher
-```
+  <text x="36" y="108"
+    font-family="'JetBrains Mono',Courier,monospace"
+    font-size="13" fill="#7a7490">
+    <tspan fill="#8B5CF6">@</tspan>Sanwar021&#160;&#160;·&#160;&#160;East West University
+  </text>
 
-```yaml
-stack:
-  ai:      Python · TensorFlow · PyTorch
-  web:     React · Vite · Go · PostgreSQL
-  tools:   Git · Linux · Colab · Vercel
+  <!-- Location badge -->
+  <rect x="588" y="58" width="162" height="34" rx="17"
+    fill="#8B5CF6" fill-opacity="0.1" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.28"/>
+  <text x="669" y="79"
+    font-family="'JetBrains Mono',Courier,monospace"
+    font-size="13" fill="#c0b8d8" text-anchor="middle">&#127471;&#127465;&#160; <tspan fill="#e8e4f0" font-weight="bold">Dhaka</tspan>, BD</text>
 
-building:  Upasham Prescription 💊
-           [ React + Go + PostgreSQL ]
-```
+  <!-- ── DIVIDER 1 ── -->
+  <rect x="36" y="128" width="708" height="0.7" fill="#8B5CF6" fill-opacity="0.18"/>
+  <rect x="36" y="128" width="180" height="0.7" fill="#F97316" fill-opacity="0.4"/>
 
-```yaml
-research:
-  papers:    9 publications
-  venues:    Springer · IEEE · SCOPUS
-  focus:     Computer Vision · Medical AI
-  citations: 3 and counting...
+  <!-- ── INFO GRID ── -->
+  <!-- Row 1 -->
+  <text x="36"  y="154" font-family="'JetBrains Mono',Courier,monospace" font-size="10" fill="#F97316" fill-opacity="0.78" letter-spacing="1.5">SPECIALITY</text>
+  <text x="410" y="154" font-family="'JetBrains Mono',Courier,monospace" font-size="10" fill="#F97316" fill-opacity="0.78" letter-spacing="1.5">RESEARCH FOCUS</text>
 
-award: 🏆 Springer ICDMIS 2024
-       Best Paper Award — Verified ✓
-```
+  <text x="36"  y="172" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#ddd8ee">ML Engineering&#160;·&#160;AI Research</text>
+  <text x="410" y="172" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#ddd8ee">Computer Vision&#160;·&#160;Medical AI&#160;·&#160;DL</text>
 
-```yaml
-status:  ● AVAILABLE
-         Open to Remote ML / AI Roles
-```
+  <!-- Row 2 -->
+  <text x="36"  y="200" font-family="'JetBrains Mono',Courier,monospace" font-size="10" fill="#F97316" fill-opacity="0.78" letter-spacing="1.5">TECH STACK</text>
+  <text x="410" y="200" font-family="'JetBrains Mono',Courier,monospace" font-size="10" fill="#F97316" fill-opacity="0.78" letter-spacing="1.5">CURRENTLY BUILDING</text>
 
-</td>
-<td width="48%" valign="top" align="center">
+  <text x="36"  y="218" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#ddd8ee">Python&#160;·&#160;TF&#160;·&#160;PyTorch&#160;·&#160;React&#160;·&#160;Go&#160;·&#160;PG</text>
+  <text x="410" y="218" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#ddd8ee">Upasham Prescription&#160;<tspan fill="#8B5CF6" fill-opacity="0.85">[ React+Go+PG ]</tspan></text>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanwar021&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0f1a&title_color=F97316&text_color=A78BFA&border_radius=12" width="100%"/>
+  <!-- Row 3 -->
+  <text x="36"  y="246" font-family="'JetBrains Mono',Courier,monospace" font-size="10" fill="#F97316" fill-opacity="0.78" letter-spacing="1.5">PORTFOLIO</text>
+  <text x="410" y="246" font-family="'JetBrains Mono',Courier,monospace" font-size="10" fill="#F97316" fill-opacity="0.78" letter-spacing="1.5">GOOGLE SCHOLAR</text>
 
-<br/>
+  <text x="36"  y="264" font-family="'JetBrains Mono',Courier,monospace" font-size="13" fill="#8B5CF6">sanwarul-ai-folio.vercel.app</text>
+  <text x="410" y="264" font-family="'JetBrains Mono',Courier,monospace" font-size="13" fill="#8B5CF6">eqFfAEMAAAAJ &#8594;</text>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sanwar021&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0f0f1a&title_color=F97316&icon_color=8B5CF6&text_color=A78BFA&ring_color=8B5CF6&hide=contribs&show=reviews,discussions_started&border_radius=12&hide_title=false" width="100%"/>
+  <!-- ── DIVIDER 2 ── -->
+  <rect x="36" y="286" width="708" height="0.7" fill="#8B5CF6" fill-opacity="0.18"/>
+  <rect x="36" y="286" width="180" height="0.7" fill="#F97316" fill-opacity="0.4"/>
 
-<br/>
+  <!-- ── STATS ROW ── -->
+  <!-- Card 1 -->
+  <rect x="28"  y="300" width="228" height="70" rx="12" fill="url(#statBg)" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.22"/>
+  <rect x="28"  y="300" width="228" height="1"  rx="0"  fill="#ffffff" fill-opacity="0.07"/>
+  <text x="50"  y="336" font-family="'JetBrains Mono',Courier,monospace" font-size="28" font-weight="bold" fill="#F97316">9</text>
+  <text x="88"  y="335" font-family="'JetBrains Mono',Courier,monospace" font-size="13" fill="#9090b0">Publications</text>
+  <text x="50"  y="356" font-family="'JetBrains Mono',Courier,monospace" font-size="11" fill="#505070">IEEE · Springer · SCOPUS</text>
 
-![Papers](https://img.shields.io/badge/📄_Papers-9-F97316?style=flat-square&labelColor=0f0f1a)
-![Citations](https://img.shields.io/badge/🔗_Citations-3-8B5CF6?style=flat-square&labelColor=0f0f1a)
-![Award](https://img.shields.io/badge/🏆_Best_Paper-Springer-D97706?style=flat-square&labelColor=0f0f1a)
-![Status](https://img.shields.io/badge/🟢-Available-16a34a?style=flat-square&labelColor=0f0f1a)
+  <!-- Card 2 -->
+  <rect x="276" y="300" width="228" height="70" rx="12" fill="url(#statBg)" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.22"/>
+  <rect x="276" y="300" width="228" height="1"  rx="0"  fill="#ffffff" fill-opacity="0.07"/>
+  <text x="298" y="336" font-family="'JetBrains Mono',Courier,monospace" font-size="28" font-weight="bold" fill="#8B5CF6">3</text>
+  <text x="336" y="335" font-family="'JetBrains Mono',Courier,monospace" font-size="13" fill="#9090b0">Citations &amp; counting</text>
+  <text x="298" y="356" font-family="'JetBrains Mono',Courier,monospace" font-size="11" fill="#505070">Google Scholar</text>
 
-</td>
-</tr>
-</table>
+  <!-- Card 3 -->
+  <rect x="524" y="300" width="228" height="70" rx="12" fill="url(#statBg)" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.22"/>
+  <rect x="524" y="300" width="228" height="1"  rx="0"  fill="#ffffff" fill-opacity="0.07"/>
+  <text x="546" y="336" font-family="'JetBrains Mono',Courier,monospace" font-size="28" font-weight="bold" fill="#F97316">2</text>
+  <text x="584" y="335" font-family="'JetBrains Mono',Courier,monospace" font-size="13" fill="#9090b0">Best Paper Awards</text>
+  <text x="546" y="356" font-family="'JetBrains Mono',Courier,monospace" font-size="11" fill="#505070">ICDMIS 2024 · Springer</text>
 
-<div align="right">
+  <!-- ── AWARD CARD ── -->
+  <rect x="28" y="384" width="724" height="74" rx="12" fill="url(#awardBg)" stroke="#F97316" stroke-width="1" stroke-opacity="0.32"/>
+  <!-- left accent bar -->
+  <rect x="28" y="384" width="3.5" height="74" rx="1.5" fill="#F97316" fill-opacity="0.65"/>
 
-*`> "Build something impactful — and publish it."`*
+  <text x="53"  y="431" font-size="24">&#127942;</text>
+
+  <text x="92"  y="406" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="bold" fill="#F97316">Springer ICDMIS 2024 &#8212; Best Paper Award</text>
+  <text x="92"  y="424" font-family="'JetBrains Mono',Courier,monospace" font-size="12" fill="#ddd8ee">"Prediction of Glioblastoma Using 3D-CNN"</text>
+  <text x="92"  y="443" font-family="'JetBrains Mono',Courier,monospace" font-size="11" fill="#7a7490">Springer LNNS Series&#160;·&#160;SCOPUS indexed&#160;·&#160;EWU, Dept. of CSE</text>
+
+  <!-- Verified badge -->
+  <rect x="622" y="402" width="100" height="26" rx="13" fill="#F97316" fill-opacity="0.14" stroke="#F97316" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="672" y="419" font-family="'JetBrains Mono',Courier,monospace" font-size="10.5" fill="#F97316" text-anchor="middle" letter-spacing="0.5">VERIFIED ✓</text>
+
+  <!-- ── DIVIDER 3 ── -->
+  <rect x="36" y="472" width="708" height="0.7" fill="#8B5CF6" fill-opacity="0.18"/>
+
+  <!-- ── STATUS FOOTER ── -->
+  <!-- Pill -->
+  <rect x="28" y="482" width="272" height="30" rx="15" fill="url(#statusBg)" stroke="#16a34a" stroke-width="1" stroke-opacity="0.32"/>
+  <!-- Static green dot + animated pulse -->
+  <circle cx="50" cy="497" r="5" fill="#4ade80"/>
+  <circle cx="50" cy="497" r="5" fill="#4ade80" fill-opacity="0.3">
+    <animate attributeName="r" values="5;10;5" dur="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0.3;0;0.3" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="64" y="502" font-family="'JetBrains Mono',Courier,monospace" font-size="12" fill="#4ade80">Available&#160;·&#160;Open to Remote ML / AI Roles</text>
+
+  <!-- Tagline -->
+  <text x="748" y="502"
+    font-family="'JetBrains Mono',Courier,monospace"
+    font-size="12" fill="#6a6488" text-anchor="end" font-style="italic">
+    &gt; "Build something impactful &#8212; and publish it."
+  </text>
+</svg>
 
 </div>
 

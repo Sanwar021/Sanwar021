@@ -19,61 +19,53 @@
 
 <div align="center">
 
-![Name](https://img.shields.io/badge/👤_Name-Sanwar%20Islam-F97316?style=flat-square&labelColor=0f0f1a)
-![Location](https://img.shields.io/badge/📍_Location-Dhaka%2C%20Bangladesh-22D3EE?style=flat-square&labelColor=0f0f1a)
-![Role](https://img.shields.io/badge/🎯_Role-ML%20Engineer%20%7C%20Researcher-8B5CF6?style=flat-square&labelColor=0f0f1a)
-![Status](https://img.shields.io/badge/🟢_Status-Open%20to%20Remote%20Work-22c55e?style=flat-square&labelColor=0f0f1a)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=1&pause=999999&color=F97316&center=true&vCenter=true&multiline=true&repeat=false&width=780&height=22&lines=ML+Engineer+%E2%80%A2+AI+Researcher+%E2%80%A2+Web+Developer+%E2%80%A2+Published+Author" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=1&pause=999999&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=false&width=780&height=22&lines=ML+Engineer+%E2%80%A2+AI+Researcher+%E2%80%A2+Web+Developer+%E2%80%A2+Published+Author" />
+</picture>
 
 </div>
 
 <br/>
 
-<img align="right" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanwar021&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0f1a&title_color=F97316&text_color=A78BFA" />
-
-```python
-class SanwarIslam:
-    def __init__(self):
-        self.name        = "Sanwar Islam"
-        self.alias       = "Sanwar021"
-        self.location    = "Dhaka, Bangladesh 🇧🇩"
-        self.title       = "ML Engineer | Data Scientist | CSE Graduate"
-        self.university  = "East West University"
-        self.roles       = ["ML Engineer", "AI Researcher", "Web Developer"]
-        self.research    = ["ML & DL", "Computer Vision", "Medical AI"]
-        self.frontend    = ["React", "Vite", "JavaScript", "TailwindCSS"]
-        self.backend     = ["Go (Chi Router)", "REST APIs"]
-        self.database    = ["PostgreSQL", "MySQL"]
-        self.building    = "Upasham Prescription 💊 (React + Go + PostgreSQL)"
-        self.portfolio   = "https://sanwarul-ai-folio.vercel.app/"
-        self.hobbies     = ["Research 🔬", "Gaming 🎮", "Open Source", "Coffee ☕"]
-        self.papers      = 9    # Google Scholar publications
-        self.citations   = 3    # and counting...
-        self.awards      = ["🏆 Springer ICDMIS 2024 Best Paper Award"]
-        self.available   = True  # open to remote ML/AI roles
-
-    def say_hi(self):
-        print("Let's build something impactful — and publish it. 🚀")
-
-me = SanwarIslam()
-me.say_hi()
 ```
-
-<br/>
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ◈  SANWAR ISLAM  ·  Sanwar021                         [ BD ] Dhaka 🇧🇩    ║
+║                                                                              ║
+║   ─────────────────────────────────────────────────────────────────────     ║
+║                                                                              ║
+║   IDENTITY       CSE Graduate  ·  East West University                      ║
+║   SPECIALITY     Machine Learning  ·  Computer Vision  ·  Medical AI        ║
+║   STACK          Python · TensorFlow · PyTorch · React · Go · PostgreSQL    ║
+║   BUILDING       Upasham Prescription  [ React + Go + PostgreSQL ]          ║
+║   PORTFOLIO      sanwarul-ai-folio.vercel.app                               ║
+║                                                                              ║
+║   ─────────────────────────────────────────────────────────────────────     ║
+║                                                                              ║
+║   PUBLICATIONS   9 papers  ·  IEEE  ·  Springer LNNS  ·  SCOPUS            ║
+║   CITATIONS      3 (and counting)                                           ║
+║   AWARD          🏆 Springer ICDMIS 2024 — Best Paper Award                ║
+║                                                                              ║
+║   ─────────────────────────────────────────────────────────────────────     ║
+║                                                                              ║
+║   STATUS         ● AVAILABLE  ·  Open to Remote ML / AI Roles              ║
+║                                                                              ║
+║   > "Let's build something impactful — and publish it."                     ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 
-```
-▶ Output:  "Let's build something impactful — and publish it. 🚀"
-```
+<img align="center" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanwar021&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0f1a&title_color=F97316&text_color=A78BFA" />
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 ![Papers](https://img.shields.io/badge/📄_Publications-9_Papers-F97316?style=for-the-badge&labelColor=0f0f1a)
 ![Citations](https://img.shields.io/badge/🔗_Citations-3_%26_Counting-8B5CF6?style=for-the-badge&labelColor=0f0f1a)
-![Award](https://img.shields.io/badge/🏆_Award-Springer_Best_Paper-FFD700?style=for-the-badge&labelColor=0f0f1a)
-![Open To](https://img.shields.io/badge/🤝_Open_To-Remote_ML_%2F_AI_Roles-22c55e?style=for-the-badge&labelColor=0f0f1a)
+![Award](https://img.shields.io/badge/🏆_Award-Springer_Best_Paper-D97706?style=for-the-badge&labelColor=0f0f1a)
+![Open To](https://img.shields.io/badge/🟢_Available-Remote_ML_%2F_AI_Roles-16a34a?style=for-the-badge&labelColor=0f0f1a)
 
 </div>
 

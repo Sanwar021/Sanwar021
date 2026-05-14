@@ -1,518 +1,247 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Sanwar Islam — Identity</title>
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@300;400;500;700&display=swap" rel="stylesheet"/>
-<style>
-  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+<div align="center">
 
-  :root {
-    --orange: #F97316;
-    --orange-dim: #c2570e;
-    --violet: #8B5CF6;
-    --violet-dim: #5b359e;
-    --bg: #06060f;
-    --surface: #0d0d1c;
-    --surface2: #13132a;
-    --border: rgba(139,92,246,0.18);
-    --border-o: rgba(249,115,22,0.22);
-    --text: #e8e4f0;
-    --muted: #7a7490;
-    --mono: 'JetBrains Mono', monospace;
-    --sans: 'Space Grotesk', sans-serif;
-  }
+[![header](https://capsule-render.vercel.app/api?type=venom&color=0:020208,30:0a0a1f,60:140828,100:020208&height=220&section=header&text=SANWAR%20ISLAM&fontSize=60&fontColor=F97316&animation=twinkling&fontAlignY=42&stroke=8B5CF6&strokeWidth=2.5&desc=Data%20Scientist%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Web%20Developer&descAlignY=63&descSize=17&descColor=A78BFA)](https://github.com/Sanwar021)
 
-  html { scroll-behavior: smooth; }
+<br/>
 
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: var(--sans);
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
-    position: relative;
-  }
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-F97316?style=for-the-badge&labelColor=0f0f1a)](https://sanwarul-ai-folio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0f1a)](https://www.linkedin.com/in/sanwarislam17/)
+[![Google Scholar](https://img.shields.io/badge/Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=0f0f1a)](https://scholar.google.com/citations?user=eqFfAEMAAAAJ&hl=en&oi=ao)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f1a)](https://github.com/Sanwar021)
 
-  /* Ambient orbs */
-  .orb {
-    position: fixed;
-    border-radius: 50%;
-    filter: blur(80px);
-    pointer-events: none;
-    animation: drift 12s ease-in-out infinite alternate;
-  }
-  .orb-1 {
-    width: 520px; height: 520px;
-    background: radial-gradient(circle, rgba(139,92,246,0.14) 0%, transparent 70%);
-    top: -160px; left: -120px;
-    animation-delay: 0s;
-  }
-  .orb-2 {
-    width: 400px; height: 400px;
-    background: radial-gradient(circle, rgba(249,115,22,0.12) 0%, transparent 70%);
-    bottom: -100px; right: -80px;
-    animation-delay: -6s;
-  }
-  .orb-3 {
-    width: 280px; height: 280px;
-    background: radial-gradient(circle, rgba(139,92,246,0.08) 0%, transparent 70%);
-    top: 40%; left: 60%;
-    animation-delay: -3s;
-  }
-
-  @keyframes drift {
-    from { transform: translate(0, 0) scale(1); }
-    to   { transform: translate(30px, 20px) scale(1.06); }
-  }
-
-  /* Grid noise texture */
-  body::before {
-    content: '';
-    position: fixed; inset: 0;
-    background-image:
-      linear-gradient(rgba(139,92,246,0.03) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(139,92,246,0.03) 1px, transparent 1px);
-    background-size: 48px 48px;
-    pointer-events: none;
-    z-index: 0;
-  }
-
-  /* Card */
-  .card {
-    position: relative;
-    z-index: 10;
-    width: min(780px, 96vw);
-    background: rgba(13,13,28,0.82);
-    border: 1px solid var(--border);
-    border-radius: 20px;
-    padding: 48px 52px;
-    backdrop-filter: blur(24px);
-    -webkit-backdrop-filter: blur(24px);
-    box-shadow:
-      0 0 0 1px rgba(249,115,22,0.06),
-      0 24px 80px rgba(0,0,0,0.6),
-      inset 0 1px 0 rgba(255,255,255,0.05);
-    opacity: 0;
-    transform: translateY(28px);
-    animation: fadeUp 0.9s cubic-bezier(0.16,1,0.3,1) 0.2s forwards;
-  }
-
-  @keyframes fadeUp {
-    to { opacity: 1; transform: translateY(0); }
-  }
-
-  /* Top accent line */
-  .card::before {
-    content: '';
-    position: absolute;
-    top: 0; left: 12%; right: 12%;
-    height: 1px;
-    background: linear-gradient(90deg, transparent, var(--orange), var(--violet), transparent);
-    border-radius: 1px;
-    opacity: 0.7;
-  }
-
-  /* Header */
-  .header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 36px;
-    opacity: 0;
-    animation: fadeUp 0.8s cubic-bezier(0.16,1,0.3,1) 0.5s forwards;
-  }
-
-  .name-block {}
-
-  .name-tag {
-    font-size: 11px;
-    font-family: var(--mono);
-    letter-spacing: 0.18em;
-    color: var(--orange);
-    text-transform: uppercase;
-    margin-bottom: 6px;
-    opacity: 0.8;
-  }
-
-  .name {
-    font-size: 32px;
-    font-weight: 700;
-    letter-spacing: -0.02em;
-    line-height: 1;
-    background: linear-gradient(135deg, #fff 0%, #c8b8f0 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-  }
-
-  .alias {
-    font-family: var(--mono);
-    font-size: 13px;
-    color: var(--muted);
-    margin-top: 4px;
-  }
-  .alias span { color: var(--violet); }
-
-  .location-badge {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    background: rgba(139,92,246,0.08);
-    border: 1px solid rgba(139,92,246,0.2);
-    border-radius: 100px;
-    padding: 8px 16px;
-    font-size: 13px;
-    font-family: var(--mono);
-    color: var(--muted);
-  }
-  .location-badge .flag { font-size: 16px; }
-  .location-badge strong { color: var(--text); font-weight: 500; }
-
-  /* Divider */
-  .divider {
-    height: 1px;
-    background: linear-gradient(90deg, transparent, var(--border), var(--border-o), var(--border), transparent);
-    margin: 28px 0;
-  }
-
-  /* Info grid */
-  .info-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 14px 32px;
-    opacity: 0;
-    animation: fadeUp 0.8s cubic-bezier(0.16,1,0.3,1) 0.7s forwards;
-  }
-
-  .info-row {
-    display: flex;
-    flex-direction: column;
-    gap: 3px;
-  }
-
-  .info-label {
-    font-family: var(--mono);
-    font-size: 10px;
-    letter-spacing: 0.14em;
-    text-transform: uppercase;
-    color: var(--orange);
-    opacity: 0.7;
-  }
-
-  .info-value {
-    font-size: 14px;
-    color: var(--text);
-    font-weight: 400;
-    line-height: 1.5;
-  }
-
-  .info-value .dot {
-    color: var(--violet);
-    margin: 0 4px;
-    opacity: 0.6;
-  }
-
-  .info-value a {
-    color: var(--violet);
-    text-decoration: none;
-    font-family: var(--mono);
-    font-size: 13px;
-  }
-  .info-value a:hover { color: var(--orange); }
-
-  /* Stats row */
-  .stats-row {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 12px;
-    margin-top: 28px;
-    opacity: 0;
-    animation: fadeUp 0.8s cubic-bezier(0.16,1,0.3,1) 0.9s forwards;
-  }
-
-  .stat-card {
-    background: rgba(255,255,255,0.03);
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    padding: 16px 18px;
-    position: relative;
-    overflow: hidden;
-    transition: border-color 0.3s, background 0.3s;
-  }
-  .stat-card:hover {
-    border-color: rgba(249,115,22,0.3);
-    background: rgba(249,115,22,0.04);
-  }
-  .stat-card::after {
-    content: '';
-    position: absolute;
-    top: 0; left: 0; right: 0;
-    height: 1px;
-    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.08), transparent);
-  }
-
-  .stat-number {
-    font-size: 26px;
-    font-weight: 700;
-    font-family: var(--mono);
-    color: var(--orange);
-    line-height: 1;
-    margin-bottom: 4px;
-  }
-  .stat-number.violet { color: var(--violet); }
-
-  .stat-label {
-    font-size: 11px;
-    font-family: var(--mono);
-    color: var(--muted);
-    letter-spacing: 0.08em;
-  }
-
-  /* Award card */
-  .award-card {
-    margin-top: 28px;
-    background: linear-gradient(135deg, rgba(249,115,22,0.07) 0%, rgba(139,92,246,0.07) 100%);
-    border: 1px solid rgba(249,115,22,0.25);
-    border-radius: 14px;
-    padding: 18px 22px;
-    display: flex;
-    align-items: center;
-    gap: 16px;
-    opacity: 0;
-    animation: fadeUp 0.8s cubic-bezier(0.16,1,0.3,1) 1.0s forwards;
-    position: relative;
-    overflow: hidden;
-  }
-
-  .award-card::before {
-    content: '';
-    position: absolute;
-    inset: 0;
-    background: linear-gradient(135deg, rgba(249,115,22,0.04), transparent);
-    pointer-events: none;
-  }
-
-  .award-icon {
-    font-size: 28px;
-    flex-shrink: 0;
-    filter: drop-shadow(0 0 8px rgba(249,115,22,0.5));
-    animation: pulse 2.5s ease-in-out infinite;
-  }
-
-  @keyframes pulse {
-    0%, 100% { filter: drop-shadow(0 0 6px rgba(249,115,22,0.4)); }
-    50%       { filter: drop-shadow(0 0 14px rgba(249,115,22,0.8)); }
-  }
-
-  .award-text {}
-  .award-title {
-    font-size: 13px;
-    font-weight: 600;
-    color: var(--orange);
-    letter-spacing: 0.02em;
-    margin-bottom: 2px;
-  }
-  .award-desc {
-    font-size: 12px;
-    color: var(--muted);
-    font-family: var(--mono);
-    line-height: 1.5;
-  }
-  .award-desc strong { color: var(--text); font-weight: 500; }
-
-  .award-badge {
-    margin-left: auto;
-    background: rgba(249,115,22,0.12);
-    border: 1px solid rgba(249,115,22,0.3);
-    border-radius: 100px;
-    padding: 4px 12px;
-    font-size: 10px;
-    font-family: var(--mono);
-    color: var(--orange);
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    white-space: nowrap;
-    flex-shrink: 0;
-  }
-
-  /* Status footer */
-  .status-footer {
-    margin-top: 28px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    opacity: 0;
-    animation: fadeUp 0.8s cubic-bezier(0.16,1,0.3,1) 1.1s forwards;
-  }
-
-  .status-pill {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    background: rgba(22,163,74,0.08);
-    border: 1px solid rgba(22,163,74,0.25);
-    border-radius: 100px;
-    padding: 7px 16px;
-    font-size: 12px;
-    font-family: var(--mono);
-    color: #4ade80;
-  }
-
-  .status-dot {
-    width: 7px; height: 7px;
-    border-radius: 50%;
-    background: #4ade80;
-    box-shadow: 0 0 6px #4ade80;
-    animation: blink 1.8s ease-in-out infinite;
-  }
-
-  @keyframes blink {
-    0%, 100% { opacity: 1; box-shadow: 0 0 6px #4ade80; }
-    50%       { opacity: 0.4; box-shadow: 0 0 2px #4ade80; }
-  }
-
-  .tagline {
-    font-family: var(--mono);
-    font-size: 12px;
-    color: var(--muted);
-    font-style: italic;
-  }
-  .tagline span { color: var(--violet); opacity: 0.7; }
-
-  /* Cursor blink on tagline end */
-  .cursor {
-    display: inline-block;
-    width: 2px; height: 13px;
-    background: var(--violet);
-    margin-left: 2px;
-    vertical-align: middle;
-    animation: cursorBlink 1s step-end infinite;
-  }
-  @keyframes cursorBlink {
-    0%, 100% { opacity: 1; }
-    50%       { opacity: 0; }
-  }
-
-  /* Scan line animation on hover */
-  .card:hover::after {
-    content: '';
-    position: absolute;
-    top: 0; left: 0; right: 0;
-    height: 100%;
-    background: linear-gradient(180deg, transparent 0%, rgba(139,92,246,0.025) 50%, transparent 100%);
-    animation: scan 3s linear infinite;
-    pointer-events: none;
-    border-radius: 20px;
-  }
-  @keyframes scan {
-    from { transform: translateY(-100%); }
-    to   { transform: translateY(100%); }
-  }
-
-  @media (max-width: 560px) {
-    .card { padding: 32px 24px; }
-    .name { font-size: 24px; }
-    .info-grid { grid-template-columns: 1fr; }
-    .stats-row { grid-template-columns: 1fr 1fr; }
-    .header { flex-direction: column; align-items: flex-start; gap: 16px; }
-    .tagline { display: none; }
-  }
-</style>
-</head>
-<body>
-
-<div class="orb orb-1"></div>
-<div class="orb orb-2"></div>
-<div class="orb orb-3"></div>
-
-<div class="card">
-
-  <div class="header">
-    <div class="name-block">
-      <div class="name-tag">// identity.json</div>
-      <div class="name">Sanwar Islam</div>
-      <div class="alias"><span>@</span>Sanwar021 &nbsp;·&nbsp; East West University</div>
-    </div>
-    <div class="location-badge">
-      <span class="flag">🇧🇩</span>
-      <span><strong>Dhaka</strong>, Bangladesh</span>
-    </div>
-  </div>
-
-  <div class="divider"></div>
-
-  <div class="info-grid">
-    <div class="info-row">
-      <div class="info-label">Speciality</div>
-      <div class="info-value">ML Engineering<span class="dot">·</span>AI Research</div>
-    </div>
-    <div class="info-row">
-      <div class="info-label">Research Focus</div>
-      <div class="info-value">Computer Vision<span class="dot">·</span>Medical AI<span class="dot">·</span>DL</div>
-    </div>
-    <div class="info-row">
-      <div class="info-label">Tech Stack</div>
-      <div class="info-value">Python · TF · PyTorch · React · Go · PG</div>
-    </div>
-    <div class="info-row">
-      <div class="info-label">Currently Building</div>
-      <div class="info-value">Upasham Prescription <span style="color:var(--violet);opacity:0.7">[ React + Go + PG ]</span></div>
-    </div>
-    <div class="info-row">
-      <div class="info-label">Portfolio</div>
-      <div class="info-value"><a href="https://sanwarul-ai-folio.vercel.app/" target="_blank">sanwarul-ai-folio.vercel.app</a></div>
-    </div>
-    <div class="info-row">
-      <div class="info-label">Google Scholar</div>
-      <div class="info-value"><a href="https://scholar.google.com/citations?user=eqFfAEMAAAAJ" target="_blank">eqFfAEMAAAAJ</a></div>
-    </div>
-  </div>
-
-  <div class="divider"></div>
-
-  <div class="stats-row">
-    <div class="stat-card">
-      <div class="stat-number">9</div>
-      <div class="stat-label">Publications</div>
-    </div>
-    <div class="stat-card">
-      <div class="stat-number violet">3</div>
-      <div class="stat-label">Citations & counting</div>
-    </div>
-    <div class="stat-card">
-      <div class="stat-number">2</div>
-      <div class="stat-label">Best Paper Awards</div>
-    </div>
-  </div>
-
-  <div class="award-card">
-    <div class="award-icon">🏆</div>
-    <div class="award-text">
-      <div class="award-title">Springer ICDMIS 2024 — Best Paper Award</div>
-      <div class="award-desc">
-        <strong>"Prediction of Glioblastoma Using 3D-CNN"</strong> &nbsp;·&nbsp;
-        Springer LNNS Series &nbsp;·&nbsp; SCOPUS indexed &nbsp;·&nbsp; EWU, Dept. of CSE
-      </div>
-    </div>
-    <div class="award-badge">Verified ✓</div>
-  </div>
-
-  <div class="status-footer">
-    <div class="status-pill">
-      <div class="status-dot"></div>
-      Available · Open to Remote ML / AI Roles
-    </div>
-    <div class="tagline">
-      <span>></span> "Build something impactful — and publish it."<span class="cursor"></span>
-    </div>
-  </div>
+![Profile Views](https://komarev.com/ghpvc/?username=Sanwar021&label=Profile+Views&color=8B5CF6&style=for-the-badge)
 
 </div>
 
-</body>
-</html>
+---
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22"/> `whoami`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=1200&color=F97316&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=28&lines=ML+Engineer+%E2%80%A2+AI+Researcher+%E2%80%A2+Published+Author;9+Research+Papers+%C2%B7+Springer+%C2%B7+IEEE+%C2%B7+SCOPUS;Building+the+future+of+Medical+AI+%F0%9F%94%AC;Open+to+Remote+ML+%2F+AI+Roles+%F0%9F%9F%A2" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="52%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f1a,100:0f0f1a&height=2&section=header&stroke=8B5CF6&strokeWidth=1" width="100%"/>
+
+**`// SANWAR ISLAM — identity.json`**
+
+```yaml
+name:        Sanwar Islam
+alias:       Sanwar021
+location:    Dhaka, Bangladesh 🇧🇩
+university:  East West University
+title:       ML Engineer · AI Researcher
+```
+
+```yaml
+stack:
+  ai:      Python · TensorFlow · PyTorch
+  web:     React · Vite · Go · PostgreSQL
+  tools:   Git · Linux · Colab · Vercel
+
+building:  Upasham Prescription 💊
+           [ React + Go + PostgreSQL ]
+```
+
+```yaml
+research:
+  papers:    9 publications
+  venues:    Springer · IEEE · SCOPUS
+  focus:     Computer Vision · Medical AI
+  citations: 3 and counting...
+
+award: 🏆 Springer ICDMIS 2024
+       Best Paper Award — Verified ✓
+```
+
+```yaml
+status:  ● AVAILABLE
+         Open to Remote ML / AI Roles
+```
+
+</td>
+<td width="48%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanwar021&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0f1a&title_color=F97316&text_color=A78BFA&border_radius=12" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sanwar021&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0f0f1a&title_color=F97316&icon_color=8B5CF6&text_color=A78BFA&ring_color=8B5CF6&hide=contribs&show=reviews,discussions_started&border_radius=12&hide_title=false" width="100%"/>
+
+<br/>
+
+![Papers](https://img.shields.io/badge/📄_Papers-9-F97316?style=flat-square&labelColor=0f0f1a)
+![Citations](https://img.shields.io/badge/🔗_Citations-3-8B5CF6?style=flat-square&labelColor=0f0f1a)
+![Award](https://img.shields.io/badge/🏆_Best_Paper-Springer-D97706?style=flat-square&labelColor=0f0f1a)
+![Status](https://img.shields.io/badge/🟢-Available-16a34a?style=flat-square&labelColor=0f0f1a)
+
+</td>
+</tr>
+</table>
+
+<div align="right">
+
+*`> "Build something impactful — and publish it."`*
+
+</div>
+
+---
+
+## 🏆 `achievement --highlight --featured`
+
+<div align="center">
+
+> ### ✨ Springer ICDMIS 2024 — Best Paper Award
+>
+> **🎖️ Co-authored the award-winning paper:**
+>
+> **"Prediction of Glioblastoma Using 3D-CNN"**
+>
+> Presented at the **International Conference on Data Mining and Information Security (ICDMIS 2024)**
+> Organized by ECMT, India × Universitas Al Asyariah Mandar, Indonesia · Oct 7–8, 2024
+>
+> 📚 Published in **Springer (LNNS Series)** · Indexed by **SCOPUS**
+>
+> 🏛️ **East West University, Dept. of CSE**
+> Under supervision of **Prof. Dr. Ahmed Wasif Reza**
+>
+> [![View Official EWU Achievement](https://img.shields.io/badge/🔗_Official_EWU_Achievement-View_Now-F97316?style=for-the-badge&labelColor=0f0f1a)](https://ewubd.edu/achievement-details/cse-students-won-two-springer-icdmis-2024-best-paper-awards)
+
+</div>
+
+---
+
+## 📊 `git log --stats`
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Sanwar021&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0f0f1a&title_color=F97316&icon_color=8B5CF6&text_color=A78BFA&ring_color=8B5CF6" />
+
+<br/><br/>
+
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanwar021&theme=midnight-purple&hide_border=true&background=0f0f1a&stroke=8B5CF6&ring=F97316&fire=EC4899&currStreakLabel=F97316&sideLabels=A78BFA&dates=555577&sideNums=F97316" />
+
+</div>
+
+---
+
+## ⚡ `tech_stack --list`
+
+**🧠 Machine Learning & AI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+**🖥️ Web Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**🛠️ Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🔬 `research --papers --all`
+
+> 📚 **9 Publications** on [Google Scholar](https://scholar.google.com/citations?user=eqFfAEMAAAAJ&hl=en&oi=ao) · East West University · Verified Researcher
+
+| # | 📄 Title | 🏷️ Area | 📅 Year | 🔢 Cited |
+|---|---------|---------|---------|---------|
+| 1 | [Measuring Accuracy of Different ML Algorithms on Expectations and Experiences of University Students](https://scholar.google.com/citations?user=eqFfAEMAAAAJ) | Machine Learning | 2025 | 1 |
+| 2 | [Earthquake Magnitude Prediction: A Survey on ML Models, Datasets, Techniques, Challenges, and Future Directions](https://scholar.google.com/citations?user=eqFfAEMAAAAJ) | Deep Learning | 2024 | 1 |
+| 3 | [Detection of Sugarcane Leaf Diseases Using Custom CNN and ResNet50](https://scholar.google.com/citations?user=eqFfAEMAAAAJ) | Computer Vision | 2024 | 1 |
+| 4 | [Prediction of Glioblastoma Using (Data Mining & AI)](https://scholar.google.com/citations?user=eqFfAEMAAAAJ) | Medical AI | 2025 | — |
+| 5 | [Deep Learning-Based Classification of Coconut Leaf Diseases Using Optimized CNN Models](https://scholar.google.com/citations?user=eqFfAEMAAAAJ) | Deep Learning | 2025 | — |
+| 6 | [Green Machine Learning (GML): Energy-Aware Approaches for Sustainable Computing](https://scholar.google.com/citations?user=eqFfAEMAAAAJ) | Sustainable AI | 2025 | — |
+| 7 | [Detection of Lemon Leaf Diseases Using Inception V3-Based Machine Learning Model](https://scholar.google.com/citations?user=eqFfAEMAAAAJ) | Computer Vision | 2025 | — |
+| 8 | [Forecasting Air Quality: A Comprehensive Survey of Air Pollution Prediction Methods and Applications](https://scholar.google.com/citations?user=eqFfAEMAAAAJ) | Data Science | 2025 | — |
+| 9 | 🏆 [**Prediction of Glioblastoma Using 3D-CNN**](https://scholar.google.com/citations?user=eqFfAEMAAAAJ) · **Springer Best Paper Award** | Medical AI | 2024 | — |
+
+> 🏛️ Published in: *Springer (LNNS)*, *International Conference on Quantum Photonics & AI*, *ICIDA*, *ICDMIS*, *ICCIIT*
+
+---
+
+## 📈 `git log --graph --all`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanwar021&bg_color=0f0f1a&color=F97316&line=8B5CF6&point=EC4899&area=true&area_color=140828&hide_border=true&custom_title=Sanwar's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 `achievements --unlock`
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Sanwar021&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 `contribution_snake --dark`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/Sanwar021/Sanwar021/raw/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sanwar021/Sanwar021/raw/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://github.com/Sanwar021/Sanwar021/raw/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+## 📡 `connect --all`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sanwarul--ai--folio-F97316?style=for-the-badge&labelColor=0f0f1a)](https://sanwarul-ai-folio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0f1a)](https://www.linkedin.com/in/sanwarislam17/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=0f0f1a)](https://scholar.google.com/citations?user=eqFfAEMAAAAJ&hl=en&oi=ao)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0f0f1a)](https://www.facebook.com/sanwar.islam.2024/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0f1a)](https://www.instagram.com/mr.raw420_/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f1a)](https://github.com/Sanwar021)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sanwar021&label=Profile+Views&color=8B5CF6&style=for-the-badge)
+
+<br/>
+
+> *"In God we trust. All others must bring data."* — W. Edwards Deming
+
+</div>
+
+<br/>
+
+[![footer](https://capsule-render.vercel.app/api?type=venom&color=0:020208,30:0a0a1f,60:140828,100:020208&height=120&section=footer&animation=twinkling&stroke=8B5CF6&strokeWidth=1)](https://github.com/Sanwar021)

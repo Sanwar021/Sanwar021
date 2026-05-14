@@ -1,28 +1,17 @@
 <div align="center">
-
-[![header](https://capsule-render.vercel.app/api?type=venom&color=0:020208,30:0a0a1f,60:140828,100:020208&height=220&section=header&text=SANWAR%20ISLAM&fontSize=60&fontColor=F97316&animation=twinkling&fontAlignY=42&stroke=8B5CF6&strokeWidth=2.5&desc=Data%20Scientist%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Web%20Developer&descAlignY=63&descSize=17&descColor=A78BFA)](https://github.com/Sanwar021)
-
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:020208,30:0a0a1f,60:140828,100:020208&height=220&section=header&text=SANWAR%20ISLAM&fontSize=60&fontColor=F97316&animation=twinkling&fontAlignY=42&stroke=8B5CF6&strokeWidth=2.5&desc=Data%20Scientist%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Web%20Developer&descAlignY=63&descSize=17&descColor=A78BFA)
 <br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-F97316?style=for-the-badge&labelColor=0f0f1a)](https://sanwarul-ai-folio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0f1a)](https://www.linkedin.com/in/sanwarislam17/)
-[![Google Scholar](https://img.shields.io/badge/Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=0f0f1a)](https://scholar.google.com/citations?user=eqFfAEMAAAAJ&hl=en&oi=ao)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f1a)](https://github.com/Sanwar021)
-
+![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-F97316?style=for-the-badge&labelColor=0f0f1a)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0f1a)
+![Google Scholar](https://img.shields.io/badge/Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=0f0f1a)
+![GitHub](https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f1a)
 ![Profile Views](https://komarev.com/ghpvc/?username=Sanwar021&label=Profile+Views&color=8B5CF6&style=for-the-badge)
-
 </div>
-
 ---
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22"/> `whoami`
-
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22"/> `whoami`
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=1200&color=F97316&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=28&lines=ML+Engineer+%E2%80%A2+AI+Researcher+%E2%80%A2+Published+Author;9+Research+Papers+%C2%B7+Springer+%C2%B7+IEEE+%C2%B7+SCOPUS;Building+the+future+of+Medical+AI+%F0%9F%94%AC;Open+to+Remote+ML+%2F+AI+Roles+%F0%9F%9F%A2" alt="Typing SVG" />
-
 <br/><br/>
-
 <svg width="780" height="522" viewBox="0 0 780 522" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="cardBg" x1="0" y1="0" x2="0.6" y2="1">
@@ -52,9 +41,8 @@
     </pattern>
     <clipPath id="cardClip"><rect x="0" y="0" width="780" height="522" rx="18"/></clipPath>
   </defs>
-
   <!-- Card -->
-  <rect x="0" y="0" width="780" height="522" rx="18" fill="url(#cardBg)" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.2"/>
+<rect x="0" y="0" width="780" height="522" rx="18" fill="url(#cardBg)" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.2"/>
   <!-- Grid -->
   <rect x="0" y="0" width="780" height="522" rx="18" fill="url(#grid)" clip-path="url(#cardClip)"/>
   <!-- Ambient orbs -->
@@ -62,102 +50,72 @@
   <ellipse cx="710" cy="440" rx="160" ry="120" fill="#F97316" fill-opacity="0.05"/>
   <!-- Top accent line -->
   <rect x="100" y="0" width="580" height="1.5" fill="url(#topAccent)"/>
-
   <!-- ── HEADER ── -->
-  <text x="36" y="46"
-    font-family="'JetBrains Mono',Courier,monospace"
-    font-size="11" fill="#F97316" fill-opacity="0.78" letter-spacing="2">// IDENTITY.JSON</text>
-
-  <text x="36" y="85"
-    font-family="Arial,Helvetica,sans-serif"
-    font-size="30" font-weight="bold" fill="#e8e4f0" letter-spacing="-0.5">Sanwar Islam</text>
-
-  <text x="36" y="108"
-    font-family="'JetBrains Mono',Courier,monospace"
-    font-size="13" fill="#7a7490">
-    <tspan fill="#8B5CF6">@</tspan>Sanwar021&#160;&#160;·&#160;&#160;East West University
-  </text>
-
+<text x="36" y="46"font-family="'JetBrains Mono',Courier,monospace"font-size="11" fill="#F97316" fill-opacity="0.78" letter-spacing="2">// IDENTITY.JSON</text>
+<text x="36" y="85"font-family="Arial,Helvetica,sans-serif"font-size="30" font-weight="bold" fill="#e8e4f0" letter-spacing="-0.5">Sanwar Islam</text>
+<text x="36" y="108"font-family="'JetBrains Mono',Courier,monospace"font-size="13" fill="#7a7490">
+<tspan fill="#8B5CF6">@</tspan>Sanwar021  ·  East West University
+</text>
   <!-- Location badge -->
-  <rect x="588" y="58" width="162" height="34" rx="17"
-    fill="#8B5CF6" fill-opacity="0.1" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.28"/>
-  <text x="669" y="79"
-    font-family="'JetBrains Mono',Courier,monospace"
-    font-size="13" fill="#c0b8d8" text-anchor="middle">&#127471;&#127465;&#160; <tspan fill="#e8e4f0" font-weight="bold">Dhaka</tspan>, BD</text>
-
+<rect x="588" y="58" width="162" height="34" rx="17"fill="#8B5CF6" fill-opacity="0.1" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.28"/>
+<text x="669" y="79"font-family="'JetBrains Mono',Courier,monospace"font-size="13" fill="#c0b8d8" text-anchor="middle">🇯🇩  <tspan fill="#e8e4f0" font-weight="bold">Dhaka</tspan>, BD</text>
   <!-- ── DIVIDER 1 ── -->
-  <rect x="36" y="128" width="708" height="0.7" fill="#8B5CF6" fill-opacity="0.18"/>
+<rect x="36" y="128" width="708" height="0.7" fill="#8B5CF6" fill-opacity="0.18"/>
   <rect x="36" y="128" width="180" height="0.7" fill="#F97316" fill-opacity="0.4"/>
-
   <!-- ── INFO GRID ── -->
   <!-- Row 1 -->
-  <text x="36"  y="154" font-family="'JetBrains Mono',Courier,monospace" font-size="10" fill="#F97316" fill-opacity="0.78" letter-spacing="1.5">SPECIALITY</text>
-  <text x="410" y="154" font-family="'JetBrains Mono',Courier,monospace" font-size="10" fill="#F97316" fill-opacity="0.78" letter-spacing="1.5">RESEARCH FOCUS</text>
-
-  <text x="36"  y="172" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#ddd8ee">ML Engineering&#160;·&#160;AI Research</text>
-  <text x="410" y="172" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#ddd8ee">Computer Vision&#160;·&#160;Medical AI&#160;·&#160;DL</text>
-
+<text x="36"  y="154" font-family="'JetBrains Mono',Courier,monospace" font-size="10" fill="#F97316" fill-opacity="0.78" letter-spacing="1.5">SPECIALITY</text>
+<text x="410" y="154" font-family="'JetBrains Mono',Courier,monospace" font-size="10" fill="#F97316" fill-opacity="0.78" letter-spacing="1.5">RESEARCH FOCUS</text>
+<text x="36"  y="172" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#ddd8ee">ML Engineering · AI Research</text>
+<text x="410" y="172" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#ddd8ee">Computer Vision · Medical AI · DL</text>
   <!-- Row 2 -->
-  <text x="36"  y="200" font-family="'JetBrains Mono',Courier,monospace" font-size="10" fill="#F97316" fill-opacity="0.78" letter-spacing="1.5">TECH STACK</text>
-  <text x="410" y="200" font-family="'JetBrains Mono',Courier,monospace" font-size="10" fill="#F97316" fill-opacity="0.78" letter-spacing="1.5">CURRENTLY BUILDING</text>
-
-  <text x="36"  y="218" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#ddd8ee">Python&#160;·&#160;TF&#160;·&#160;PyTorch&#160;·&#160;React&#160;·&#160;Go&#160;·&#160;PG</text>
-  <text x="410" y="218" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#ddd8ee">Upasham Prescription&#160;<tspan fill="#8B5CF6" fill-opacity="0.85">[ React+Go+PG ]</tspan></text>
-
+<text x="36"  y="200" font-family="'JetBrains Mono',Courier,monospace" font-size="10" fill="#F97316" fill-opacity="0.78" letter-spacing="1.5">TECH STACK</text>
+<text x="410" y="200" font-family="'JetBrains Mono',Courier,monospace" font-size="10" fill="#F97316" fill-opacity="0.78" letter-spacing="1.5">CURRENTLY BUILDING</text>
+<text x="36"  y="218" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#ddd8ee">Python · TF · PyTorch · React · Go · PG</text>
+<text x="410" y="218" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#ddd8ee">Upasham Prescription <tspan fill="#8B5CF6" fill-opacity="0.85">[ React+Go+PG ]</tspan></text>
   <!-- Row 3 -->
-  <text x="36"  y="246" font-family="'JetBrains Mono',Courier,monospace" font-size="10" fill="#F97316" fill-opacity="0.78" letter-spacing="1.5">PORTFOLIO</text>
-  <text x="410" y="246" font-family="'JetBrains Mono',Courier,monospace" font-size="10" fill="#F97316" fill-opacity="0.78" letter-spacing="1.5">GOOGLE SCHOLAR</text>
-
-  <text x="36"  y="264" font-family="'JetBrains Mono',Courier,monospace" font-size="13" fill="#8B5CF6">sanwarul-ai-folio.vercel.app</text>
-  <text x="410" y="264" font-family="'JetBrains Mono',Courier,monospace" font-size="13" fill="#8B5CF6">eqFfAEMAAAAJ &#8594;</text>
-
+<text x="36"  y="246" font-family="'JetBrains Mono',Courier,monospace" font-size="10" fill="#F97316" fill-opacity="0.78" letter-spacing="1.5">PORTFOLIO</text>
+<text x="410" y="246" font-family="'JetBrains Mono',Courier,monospace" font-size="10" fill="#F97316" fill-opacity="0.78" letter-spacing="1.5">GOOGLE SCHOLAR</text>
+<text x="36"  y="264" font-family="'JetBrains Mono',Courier,monospace" font-size="13" fill="#8B5CF6">sanwarul-ai-folio.vercel.app</text>
+<text x="410" y="264" font-family="'JetBrains Mono',Courier,monospace" font-size="13" fill="#8B5CF6">eqFfAEMAAAAJ →</text>
   <!-- ── DIVIDER 2 ── -->
-  <rect x="36" y="286" width="708" height="0.7" fill="#8B5CF6" fill-opacity="0.18"/>
+<rect x="36" y="286" width="708" height="0.7" fill="#8B5CF6" fill-opacity="0.18"/>
   <rect x="36" y="286" width="180" height="0.7" fill="#F97316" fill-opacity="0.4"/>
-
   <!-- ── STATS ROW ── -->
   <!-- Card 1 -->
-  <rect x="28"  y="300" width="228" height="70" rx="12" fill="url(#statBg)" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.22"/>
+<rect x="28"  y="300" width="228" height="70" rx="12" fill="url(#statBg)" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.22"/>
   <rect x="28"  y="300" width="228" height="1"  rx="0"  fill="#ffffff" fill-opacity="0.07"/>
   <text x="50"  y="336" font-family="'JetBrains Mono',Courier,monospace" font-size="28" font-weight="bold" fill="#F97316">9</text>
   <text x="88"  y="335" font-family="'JetBrains Mono',Courier,monospace" font-size="13" fill="#9090b0">Publications</text>
   <text x="50"  y="356" font-family="'JetBrains Mono',Courier,monospace" font-size="11" fill="#505070">IEEE · Springer · SCOPUS</text>
-
   <!-- Card 2 -->
-  <rect x="276" y="300" width="228" height="70" rx="12" fill="url(#statBg)" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.22"/>
+<rect x="276" y="300" width="228" height="70" rx="12" fill="url(#statBg)" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.22"/>
   <rect x="276" y="300" width="228" height="1"  rx="0"  fill="#ffffff" fill-opacity="0.07"/>
   <text x="298" y="336" font-family="'JetBrains Mono',Courier,monospace" font-size="28" font-weight="bold" fill="#8B5CF6">3</text>
   <text x="336" y="335" font-family="'JetBrains Mono',Courier,monospace" font-size="13" fill="#9090b0">Citations &amp; counting</text>
   <text x="298" y="356" font-family="'JetBrains Mono',Courier,monospace" font-size="11" fill="#505070">Google Scholar</text>
-
   <!-- Card 3 -->
-  <rect x="524" y="300" width="228" height="70" rx="12" fill="url(#statBg)" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.22"/>
+<rect x="524" y="300" width="228" height="70" rx="12" fill="url(#statBg)" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.22"/>
   <rect x="524" y="300" width="228" height="1"  rx="0"  fill="#ffffff" fill-opacity="0.07"/>
   <text x="546" y="336" font-family="'JetBrains Mono',Courier,monospace" font-size="28" font-weight="bold" fill="#F97316">2</text>
   <text x="584" y="335" font-family="'JetBrains Mono',Courier,monospace" font-size="13" fill="#9090b0">Best Paper Awards</text>
   <text x="546" y="356" font-family="'JetBrains Mono',Courier,monospace" font-size="11" fill="#505070">ICDMIS 2024 · Springer</text>
-
   <!-- ── AWARD CARD ── -->
-  <rect x="28" y="384" width="724" height="74" rx="12" fill="url(#awardBg)" stroke="#F97316" stroke-width="1" stroke-opacity="0.32"/>
+<rect x="28" y="384" width="724" height="74" rx="12" fill="url(#awardBg)" stroke="#F97316" stroke-width="1" stroke-opacity="0.32"/>
   <!-- left accent bar -->
   <rect x="28" y="384" width="3.5" height="74" rx="1.5" fill="#F97316" fill-opacity="0.65"/>
-
-  <text x="53"  y="431" font-size="24">&#127942;</text>
-
-  <text x="92"  y="406" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="bold" fill="#F97316">Springer ICDMIS 2024 &#8212; Best Paper Award</text>
-  <text x="92"  y="424" font-family="'JetBrains Mono',Courier,monospace" font-size="12" fill="#ddd8ee">"Prediction of Glioblastoma Using 3D-CNN"</text>
-  <text x="92"  y="443" font-family="'JetBrains Mono',Courier,monospace" font-size="11" fill="#7a7490">Springer LNNS Series&#160;·&#160;SCOPUS indexed&#160;·&#160;EWU, Dept. of CSE</text>
-
+<text x="53"  y="431" font-size="24">🏆</text>
+<text x="92"  y="406" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="bold" fill="#F97316">Springer ICDMIS 2024 — Best Paper Award</text>
+<text x="92"  y="424" font-family="'JetBrains Mono',Courier,monospace" font-size="12" fill="#ddd8ee">"Prediction of Glioblastoma Using 3D-CNN"</text>
+<text x="92"  y="443" font-family="'JetBrains Mono',Courier,monospace" font-size="11" fill="#7a7490">Springer LNNS Series · SCOPUS indexed · EWU, Dept. of CSE</text>
   <!-- Verified badge -->
-  <rect x="622" y="402" width="100" height="26" rx="13" fill="#F97316" fill-opacity="0.14" stroke="#F97316" stroke-width="1" stroke-opacity="0.4"/>
+<rect x="622" y="402" width="100" height="26" rx="13" fill="#F97316" fill-opacity="0.14" stroke="#F97316" stroke-width="1" stroke-opacity="0.4"/>
   <text x="672" y="419" font-family="'JetBrains Mono',Courier,monospace" font-size="10.5" fill="#F97316" text-anchor="middle" letter-spacing="0.5">VERIFIED ✓</text>
-
   <!-- ── DIVIDER 3 ── -->
-  <rect x="36" y="472" width="708" height="0.7" fill="#8B5CF6" fill-opacity="0.18"/>
-
+<rect x="36" y="472" width="708" height="0.7" fill="#8B5CF6" fill-opacity="0.18"/>
   <!-- ── STATUS FOOTER ── -->
   <!-- Pill -->
-  <rect x="28" y="482" width="272" height="30" rx="15" fill="url(#statusBg)" stroke="#16a34a" stroke-width="1" stroke-opacity="0.32"/>
+<rect x="28" y="482" width="272" height="30" rx="15" fill="url(#statusBg)" stroke="#16a34a" stroke-width="1" stroke-opacity="0.32"/>
   <!-- Static green dot + animated pulse -->
   <circle cx="50" cy="497" r="5" fill="#4ade80"/>
   <circle cx="50" cy="497" r="5" fill="#4ade80" fill-opacity="0.3">
@@ -165,23 +123,15 @@
     <animate attributeName="fill-opacity" values="0.3;0;0.3" dur="2.2s" repeatCount="indefinite"/>
   </circle>
   <text x="64" y="502" font-family="'JetBrains Mono',Courier,monospace" font-size="12" fill="#4ade80">Available&#160;·&#160;Open to Remote ML / AI Roles</text>
-
   <!-- Tagline -->
-  <text x="748" y="502"
-    font-family="'JetBrains Mono',Courier,monospace"
-    font-size="12" fill="#6a6488" text-anchor="end" font-style="italic">
-    &gt; "Build something impactful &#8212; and publish it."
-  </text>
+<text x="748" y="502"font-family="'JetBrains Mono',Courier,monospace"font-size="12" fill="#6a6488" text-anchor="end" font-style="italic">
+> "Build something impactful — and publish it."
+</text>
 </svg>
-
 </div>
-
 ---
-
-## 🏆 `achievement --highlight --featured`
-
+🏆 `achievement --highlight --featured`
 <div align="center">
-
 > ### ✨ Springer ICDMIS 2024 — Best Paper Award
 >
 > **🎖️ Co-authored the award-winning paper:**
@@ -197,29 +147,17 @@
 > Under supervision of **Prof. Dr. Ahmed Wasif Reza**
 >
 > [![View Official EWU Achievement](https://img.shields.io/badge/🔗_Official_EWU_Achievement-View_Now-F97316?style=for-the-badge&labelColor=0f0f1a)](https://ewubd.edu/achievement-details/cse-students-won-two-springer-icdmis-2024-best-paper-awards)
-
 </div>
-
 ---
-
-## 📊 `git log --stats`
-
+📊 `git log --stats`
 <div align="center">
-
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=Sanwar021&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0f0f1a&title_color=F97316&icon_color=8B5CF6&text_color=A78BFA&ring_color=8B5CF6" />
-
 <br/><br/>
-
 <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanwar021&theme=midnight-purple&hide_border=true&background=0f0f1a&stroke=8B5CF6&ring=F97316&fire=EC4899&currStreakLabel=F97316&sideLabels=A78BFA&dates=555577&sideNums=F97316" />
-
 </div>
-
 ---
-
-## ⚡ `tech_stack --list`
-
-**🧠 Machine Learning & AI**
-
+⚡ `tech_stack --list`
+🧠 Machine Learning & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -228,9 +166,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
-**🖥️ Web Development**
-
+🖥️ Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -238,93 +174,59 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**🛠️ Tools & Platforms**
-
+🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
 ---
-
-## 🔬 `research --papers --all`
-
+🔬 `research --papers --all`
 > 📚 **9 Publications** on [Google Scholar](https://scholar.google.com/citations?user=eqFfAEMAAAAJ&hl=en&oi=ao) · East West University · Verified Researcher
-
-| # | 📄 Title | 🏷️ Area | 📅 Year | 🔢 Cited |
-|---|---------|---------|---------|---------|
-| 1 | [Measuring Accuracy of Different ML Algorithms on Expectations and Experiences of University Students](https://scholar.google.com/citations?user=eqFfAEMAAAAJ) | Machine Learning | 2025 | 1 |
-| 2 | [Earthquake Magnitude Prediction: A Survey on ML Models, Datasets, Techniques, Challenges, and Future Directions](https://scholar.google.com/citations?user=eqFfAEMAAAAJ) | Deep Learning | 2024 | 1 |
-| 3 | [Detection of Sugarcane Leaf Diseases Using Custom CNN and ResNet50](https://scholar.google.com/citations?user=eqFfAEMAAAAJ) | Computer Vision | 2024 | 1 |
-| 4 | [Prediction of Glioblastoma Using (Data Mining & AI)](https://scholar.google.com/citations?user=eqFfAEMAAAAJ) | Medical AI | 2025 | — |
-| 5 | [Deep Learning-Based Classification of Coconut Leaf Diseases Using Optimized CNN Models](https://scholar.google.com/citations?user=eqFfAEMAAAAJ) | Deep Learning | 2025 | — |
-| 6 | [Green Machine Learning (GML): Energy-Aware Approaches for Sustainable Computing](https://scholar.google.com/citations?user=eqFfAEMAAAAJ) | Sustainable AI | 2025 | — |
-| 7 | [Detection of Lemon Leaf Diseases Using Inception V3-Based Machine Learning Model](https://scholar.google.com/citations?user=eqFfAEMAAAAJ) | Computer Vision | 2025 | — |
-| 8 | [Forecasting Air Quality: A Comprehensive Survey of Air Pollution Prediction Methods and Applications](https://scholar.google.com/citations?user=eqFfAEMAAAAJ) | Data Science | 2025 | — |
-| 9 | 🏆 [**Prediction of Glioblastoma Using 3D-CNN**](https://scholar.google.com/citations?user=eqFfAEMAAAAJ) · **Springer Best Paper Award** | Medical AI | 2024 | — |
-
+#	📄 Title	🏷️ Area	📅 Year	🔢 Cited
+1	Measuring Accuracy of Different ML Algorithms on Expectations and Experiences of University Students	Machine Learning	2025	1
+2	Earthquake Magnitude Prediction: A Survey on ML Models, Datasets, Techniques, Challenges, and Future Directions	Deep Learning	2024	1
+3	Detection of Sugarcane Leaf Diseases Using Custom CNN and ResNet50	Computer Vision	2024	1
+4	Prediction of Glioblastoma Using (Data Mining & AI)	Medical AI	2025	—
+5	Deep Learning-Based Classification of Coconut Leaf Diseases Using Optimized CNN Models	Deep Learning	2025	—
+6	Green Machine Learning (GML): Energy-Aware Approaches for Sustainable Computing	Sustainable AI	2025	—
+7	Detection of Lemon Leaf Diseases Using Inception V3-Based Machine Learning Model	Computer Vision	2025	—
+8	Forecasting Air Quality: A Comprehensive Survey of Air Pollution Prediction Methods and Applications	Data Science	2025	—
+9	🏆 Prediction of Glioblastoma Using 3D-CNN · Springer Best Paper Award	Medical AI	2024	—
 > 🏛️ Published in: *Springer (LNNS)*, *International Conference on Quantum Photonics & AI*, *ICIDA*, *ICDMIS*, *ICCIIT*
-
 ---
-
-## 📈 `git log --graph --all`
-
+📈 `git log --graph --all`
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanwar021&bg_color=0f0f1a&color=F97316&line=8B5CF6&point=EC4899&area=true&area_color=140828&hide_border=true&custom_title=Sanwar's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanwar021&bg_color=0f0f1a&color=F97316&line=8B5CF6&point=EC4899&area=true&area_color=140828&hide_border=true&custom_title=Sanwar's%20Contribution%20Graph)
 </div>
-
 ---
-
-## 🏆 `achievements --unlock`
-
+🏆 `achievements --unlock`
 <div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Sanwar021&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=Sanwar021&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
 </div>
-
 ---
-
-## 🐍 `contribution_snake --dark`
-
+🐍 `contribution_snake --dark`
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/Sanwar021/Sanwar021/raw/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sanwar021/Sanwar021/raw/output/github-contribution-grid-snake.svg"/>
   <img alt="snake animation" src="https://github.com/Sanwar021/Sanwar021/raw/output/github-contribution-grid-snake.svg"/>
 </picture>
-
 </div>
-
 ---
-
-## 📡 `connect --all`
-
+📡 `connect --all`
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sanwarul--ai--folio-F97316?style=for-the-badge&labelColor=0f0f1a)](https://sanwarul-ai-folio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0f1a)](https://www.linkedin.com/in/sanwarislam17/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=0f0f1a)](https://scholar.google.com/citations?user=eqFfAEMAAAAJ&hl=en&oi=ao)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0f0f1a)](https://www.facebook.com/sanwar.islam.2024/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0f1a)](https://www.instagram.com/mr.raw420_/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f1a)](https://github.com/Sanwar021)
-
+![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sanwarul--ai--folio-F97316?style=for-the-badge&labelColor=0f0f1a)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0f1a)
+![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=0f0f1a)
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0f0f1a)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0f1a)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f1a)
 <br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Sanwar021&label=Profile+Views&color=8B5CF6&style=for-the-badge)
-
 <br/>
-
 > *"In God we trust. All others must bring data."* — W. Edwards Deming
-
 </div>
-
 <br/>
-
-[![footer](https://capsule-render.vercel.app/api?type=venom&color=0:020208,30:0a0a1f,60:140828,100:020208&height=120&section=footer&animation=twinkling&stroke=8B5CF6&strokeWidth=1)](https://github.com/Sanwar021)
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:020208,30:0a0a1f,60:140828,100:020208&height=120&section=footer&animation=twinkling&stroke=8B5CF6&strokeWidth=1)

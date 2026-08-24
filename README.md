@@ -130,41 +130,31 @@ status: Open to Remote ML / AI Roles
 
 ## 🛠 Tech Stack
 
-### Machine Learning & Data Science
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0A1F1C?style=for-the-badge&logo=python&logoColor=2DD4A7" />
-  <img src="https://img.shields.io/badge/PyTorch-0A1F1C?style=for-the-badge&logo=pytorch&logoColor=4FD9B0" />
-  <img src="https://img.shields.io/badge/TensorFlow-0A1F1C?style=for-the-badge&logo=tensorflow&logoColor=4FD9B0" />
-  <img src="https://img.shields.io/badge/scikit--learn-0A1F1C?style=for-the-badge&logo=scikitlearn&logoColor=2DD4A7" />
-  <img src="https://img.shields.io/badge/Pandas-0A1F1C?style=for-the-badge&logo=pandas&logoColor=4FD9B0" />
-  <img src="https://img.shields.io/badge/NumPy-0A1F1C?style=for-the-badge&logo=numpy&logoColor=2DD4A7" />
-  <img src="https://img.shields.io/badge/Jupyter-0A1F1C?style=for-the-badge&logo=jupyter&logoColor=4FD9B0" />
-  <img src="https://img.shields.io/badge/Kaggle-0A1F1C?style=for-the-badge&logo=kaggle&logoColor=2DD4A7" />
-</p>
+<sub><b>MACHINE LEARNING &amp; DATA SCIENCE</b></sub>
 
-### Web Development
+<br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/React-0A1F1C?style=for-the-badge&logo=react&logoColor=2DD4A7" />
-  <img src="https://img.shields.io/badge/Vite-0A1F1C?style=for-the-badge&logo=vite&logoColor=4FD9B0" />
-  <img src="https://img.shields.io/badge/TypeScript-0A1F1C?style=for-the-badge&logo=typescript&logoColor=2DD4A7" />
-  <img src="https://img.shields.io/badge/JavaScript-0A1F1C?style=for-the-badge&logo=javascript&logoColor=E8DA6B" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-0A1F1C?style=for-the-badge&logo=tailwindcss&logoColor=4FD9B0" />
-  <img src="https://img.shields.io/badge/Go-0A1F1C?style=for-the-badge&logo=go&logoColor=2DD4A7" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0A1F1C?style=for-the-badge&logo=postgresql&logoColor=2DD4A7" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,jupyter,kaggle&theme=dark&perline=8" alt="ML & Data Science Stack"/>
 
-### Tools & Platforms
+<br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-0A1F1C?style=for-the-badge&logo=git&logoColor=E8894A" />
-  <img src="https://img.shields.io/badge/GitHub-0A1F1C?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/VS%20Code-0A1F1C?style=for-the-badge&logo=visualstudiocode&logoColor=2DD4A7" />
-  <img src="https://img.shields.io/badge/Linux-0A1F1C?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Google%20Colab-0A1F1C?style=for-the-badge&logo=googlecolab&logoColor=E8894A" />
-  <img src="https://img.shields.io/badge/Vercel-0A1F1C?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
-</p>
+<sub><b>WEB DEVELOPMENT</b></sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,vite,ts,js,tailwind,go,postgres&theme=dark&perline=7" alt="Web Development Stack"/>
+
+<br/><br/>
+
+<sub><b>TOOLS &amp; PLATFORMS</b></sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,gcloud,vercel&theme=dark&perline=6" alt="Tools & Platforms Stack"/>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:040807,50:2DD4A7,100:040807" width="100%"/>
 

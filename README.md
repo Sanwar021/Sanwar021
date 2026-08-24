@@ -1,34 +1,37 @@
 <!--
   Premium GitHub Profile README for Sanwar Islam
-  GitHub README compatible version: no <style>, no <script>, no fixed nav.
+  Color grade: Deep Emerald / Cinematic Teal (matched to reference)
+  GitHub README compatible: no <style>, no <script>, no fixed nav.
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:060A10,45:0E1520,100:63B3ED&text=Sanwar%20Islam&fontColor=E8EEF4&fontSize=48&fontAlignY=38&desc=ML%20Engineer%20%7C%20AI%20Researcher%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=15" width="100%" alt="Sanwar Islam Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:040807,35:0A1F1C,70:114A3E,100:2DD4A7&text=Sanwar%20Islam&fontColor=EAF6F1&fontSize=48&fontAlignY=38&desc=ML%20Engineer%20%7C%20AI%20Researcher%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=15" width="100%" alt="Sanwar Islam Banner" />
 
 <br/>
 
 <a href="https://sanwarul-ai-folio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-63B3ED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0E1520" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2DD4A7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A1F1C" alt="Portfolio"/>
 </a>
 <a href="https://github.com/Sanwar021">
-  <img src="https://img.shields.io/badge/GitHub-Sanwar021-63B3ED?style=for-the-badge&logo=github&logoColor=white&labelColor=white&labelColor=0E1520" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Sanwar021-2DD4A7?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1F1C" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/sanwarislam17/">
-  <img src="https://img.shields.io/badge/LinkedIn-sanwarislam17-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0E1520" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-sanwarislam17-2DD4A7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1F1C" alt="LinkedIn"/>
 </a>
 <a href="https://scholar.google.com/citations?user=eqFfAEMAAAAJ&hl=en&oi=ao">
-  <img src="https://img.shields.io/badge/Google%20Scholar-Verified-4FD1C5?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0E1520" alt="Google Scholar"/>
+  <img src="https://img.shields.io/badge/Google%20Scholar-Verified-4FD9B0?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0A1F1C" alt="Google Scholar"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&duration=2600&pause=800&color=63B3ED&center=true&vCenter=true&width=760&lines=Machine+Learning+Engineer+%26+AI+Researcher;Full-Stack+Developer+%7C+React+%7C+Go+%7C+PostgreSQL;Computer+Vision+%7C+Medical+AI+%7C+Deep+Learning;Published+Researcher+with+9+Papers" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&duration=2600&pause=800&color=2DD4A7&center=true&vCenter=true&width=760&lines=Machine+Learning+Engineer+%26+AI+Researcher;Full-Stack+Developer+%7C+React+%7C+Go+%7C+PostgreSQL;Computer+Vision+%7C+Medical+AI+%7C+Deep+Learning;Published+Researcher+with+9+Papers" alt="Typing SVG" />
 
 </div>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:040807,50:2DD4A7,100:040807" width="100%"/>
 
 ## 👋 About Me
 
@@ -47,16 +50,16 @@ github: Sanwar021
 status: Open to Remote ML / AI Roles
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:040807,50:2DD4A7,100:040807" width="100%"/>
 
 ## 🏆 Highlight
 
-<table>
+<table width="100%">
   <tr>
-    <td width="70">
+    <td width="70" align="center" style="background-color:#0A1F1C;">
       <img src="https://img.icons8.com/fluency/96/trophy.png" width="58" alt="Trophy"/>
     </td>
-    <td>
+    <td style="background-color:#0A1F1C;">
       <h3>Springer ICDMIS 2024 — Best Paper Award</h3>
       <p>
         <b>Paper:</b> Prediction of Glioblastoma Using 3D-CNN<br/>
@@ -68,7 +71,7 @@ status: Open to Remote ML / AI Roles
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:040807,50:2DD4A7,100:040807" width="100%"/>
 
 ## 📊 Research & Development Snapshot
 
@@ -96,7 +99,7 @@ status: Open to Remote ML / AI Roles
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:040807,50:2DD4A7,100:040807" width="100%"/>
 
 ## 🧠 Core Expertise
 
@@ -123,47 +126,47 @@ status: Open to Remote ML / AI Roles
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:040807,50:2DD4A7,100:040807" width="100%"/>
 
 ## 🛠 Tech Stack
 
 ### Machine Learning & Data Science
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0E1520?style=for-the-badge&logo=python&logoColor=63B3ED" />
-  <img src="https://img.shields.io/badge/PyTorch-0E1520?style=for-the-badge&logo=pytorch&logoColor=E8894A" />
-  <img src="https://img.shields.io/badge/TensorFlow-0E1520?style=for-the-badge&logo=tensorflow&logoColor=E8894A" />
-  <img src="https://img.shields.io/badge/scikit--learn-0E1520?style=for-the-badge&logo=scikitlearn&logoColor=63B3ED" />
-  <img src="https://img.shields.io/badge/Pandas-0E1520?style=for-the-badge&logo=pandas&logoColor=4FD1C5" />
-  <img src="https://img.shields.io/badge/NumPy-0E1520?style=for-the-badge&logo=numpy&logoColor=63B3ED" />
-  <img src="https://img.shields.io/badge/Jupyter-0E1520?style=for-the-badge&logo=jupyter&logoColor=E8894A" />
-  <img src="https://img.shields.io/badge/Kaggle-0E1520?style=for-the-badge&logo=kaggle&logoColor=63B3ED" />
+  <img src="https://img.shields.io/badge/Python-0A1F1C?style=for-the-badge&logo=python&logoColor=2DD4A7" />
+  <img src="https://img.shields.io/badge/PyTorch-0A1F1C?style=for-the-badge&logo=pytorch&logoColor=4FD9B0" />
+  <img src="https://img.shields.io/badge/TensorFlow-0A1F1C?style=for-the-badge&logo=tensorflow&logoColor=4FD9B0" />
+  <img src="https://img.shields.io/badge/scikit--learn-0A1F1C?style=for-the-badge&logo=scikitlearn&logoColor=2DD4A7" />
+  <img src="https://img.shields.io/badge/Pandas-0A1F1C?style=for-the-badge&logo=pandas&logoColor=4FD9B0" />
+  <img src="https://img.shields.io/badge/NumPy-0A1F1C?style=for-the-badge&logo=numpy&logoColor=2DD4A7" />
+  <img src="https://img.shields.io/badge/Jupyter-0A1F1C?style=for-the-badge&logo=jupyter&logoColor=4FD9B0" />
+  <img src="https://img.shields.io/badge/Kaggle-0A1F1C?style=for-the-badge&logo=kaggle&logoColor=2DD4A7" />
 </p>
 
 ### Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/React-0E1520?style=for-the-badge&logo=react&logoColor=63B3ED" />
-  <img src="https://img.shields.io/badge/Vite-0E1520?style=for-the-badge&logo=vite&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/TypeScript-0E1520?style=for-the-badge&logo=typescript&logoColor=63B3ED" />
-  <img src="https://img.shields.io/badge/JavaScript-0E1520?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-0E1520?style=for-the-badge&logo=tailwindcss&logoColor=4FD1C5" />
-  <img src="https://img.shields.io/badge/Go-0E1520?style=for-the-badge&logo=go&logoColor=63B3ED" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0E1520?style=for-the-badge&logo=postgresql&logoColor=63B3ED" />
+  <img src="https://img.shields.io/badge/React-0A1F1C?style=for-the-badge&logo=react&logoColor=2DD4A7" />
+  <img src="https://img.shields.io/badge/Vite-0A1F1C?style=for-the-badge&logo=vite&logoColor=4FD9B0" />
+  <img src="https://img.shields.io/badge/TypeScript-0A1F1C?style=for-the-badge&logo=typescript&logoColor=2DD4A7" />
+  <img src="https://img.shields.io/badge/JavaScript-0A1F1C?style=for-the-badge&logo=javascript&logoColor=E8DA6B" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0A1F1C?style=for-the-badge&logo=tailwindcss&logoColor=4FD9B0" />
+  <img src="https://img.shields.io/badge/Go-0A1F1C?style=for-the-badge&logo=go&logoColor=2DD4A7" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0A1F1C?style=for-the-badge&logo=postgresql&logoColor=2DD4A7" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/Git-0E1520?style=for-the-badge&logo=git&logoColor=E8894A" />
-  <img src="https://img.shields.io/badge/GitHub-0E1520?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/VS%20Code-0E1520?style=for-the-badge&logo=visualstudiocode&logoColor=63B3ED" />
-  <img src="https://img.shields.io/badge/Linux-0E1520?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Google%20Colab-0E1520?style=for-the-badge&logo=googlecolab&logoColor=E8894A" />
-  <img src="https://img.shields.io/badge/Vercel-0E1520?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Git-0A1F1C?style=for-the-badge&logo=git&logoColor=E8894A" />
+  <img src="https://img.shields.io/badge/GitHub-0A1F1C?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/VS%20Code-0A1F1C?style=for-the-badge&logo=visualstudiocode&logoColor=2DD4A7" />
+  <img src="https://img.shields.io/badge/Linux-0A1F1C?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Google%20Colab-0A1F1C?style=for-the-badge&logo=googlecolab&logoColor=E8894A" />
+  <img src="https://img.shields.io/badge/Vercel-0A1F1C?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:040807,50:2DD4A7,100:040807" width="100%"/>
 
 ## 📚 Publications
 
@@ -181,20 +184,20 @@ status: Open to Remote ML / AI Roles
 
 <p>
   <a href="https://scholar.google.com/citations?user=eqFfAEMAAAAJ&hl=en&oi=ao">
-    <img src="https://img.shields.io/badge/View%20All%20on-Google%20Scholar-4FD1C5?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0E1520" />
+    <img src="https://img.shields.io/badge/View%20All%20on-Google%20Scholar-4FD9B0?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0A1F1C" />
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:040807,50:2DD4A7,100:040807" width="100%"/>
 
 ## 🚧 Currently Building
 
-<table>
+<table width="100%">
   <tr>
-    <td width="80">
+    <td width="80" align="center" style="background-color:#0A1F1C;">
       <img src="https://img.icons8.com/fluency/96/medical-doctor.png" width="60" alt="Medical Platform"/>
     </td>
-    <td>
+    <td style="background-color:#0A1F1C;">
       <h3>Upasham Prescription</h3>
       <p>A modern medical platform combining prescription workflows, pharmacy connectivity, health-data management, PostgreSQL-based storage, and AI-assisted diagnostic concepts.</p>
       <p><b>Stack:</b> React · Go · PostgreSQL · API · Dashboard · Healthcare UI</p>
@@ -202,18 +205,18 @@ status: Open to Remote ML / AI Roles
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:040807,50:2DD4A7,100:040807" width="100%"/>
 
 ## 📈 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanwar021&show_icons=true&count_private=true&theme=transparent&hide_border=true&bg_color=0E1520&title_color=E8EEF4&icon_color=63B3ED&text_color=7E8A96&ring_color=63B3ED" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=Sanwar021&theme=transparent&hide_border=true&background=0E1520&stroke=1E2A3A&ring=63B3ED&fire=E8894A&currStreakLabel=E8EEF4&sideLabels=7E8A96&dates=3D4550&sideNums=E8EEF4" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanwar021&show_icons=true&count_private=true&theme=transparent&hide_border=true&bg_color=0A1F1C&title_color=EAF6F1&icon_color=2DD4A7&text_color=7FA89C&ring_color=2DD4A7" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Sanwar021&theme=transparent&hide_border=true&background=0A1F1C&stroke=114A3E&ring=2DD4A7&fire=4FD9B0&currStreakLabel=EAF6F1&sideLabels=7FA89C&dates=3D5850&sideNums=EAF6F1" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanwar021&bg_color=0E1520&color=63B3ED&line=4FD1C5&point=E8EEF4&area=true&area_color=132030&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%20Sanwar021" alt="Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanwar021&bg_color=0A1F1C&color=2DD4A7&line=4FD9B0&point=EAF6F1&area=true&area_color=114A3E&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%20Sanwar021" alt="Contribution Graph"/>
 
 <br/><br/>
 
@@ -221,7 +224,7 @@ status: Open to Remote ML / AI Roles
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:040807,50:2DD4A7,100:040807" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -237,34 +240,34 @@ status: Open to Remote ML / AI Roles
 
 > Note: The snake animation requires a GitHub Action that generates the SVG into the `output` branch.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:040807,50:2DD4A7,100:040807" width="100%"/>
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://sanwarul-ai-folio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-sanwarul--ai--folio.vercel.app-63B3ED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0E1520" />
+  <img src="https://img.shields.io/badge/Portfolio-sanwarul--ai--folio.vercel.app-2DD4A7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A1F1C" />
 </a>
 <a href="https://www.linkedin.com/in/sanwarislam17/">
-  <img src="https://img.shields.io/badge/LinkedIn-sanwarislam17-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0E1520" />
+  <img src="https://img.shields.io/badge/LinkedIn-sanwarislam17-2DD4A7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1F1C" />
 </a>
 <a href="https://github.com/Sanwar021">
-  <img src="https://img.shields.io/badge/GitHub-Sanwar021-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0E1520" />
+  <img src="https://img.shields.io/badge/GitHub-Sanwar021-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1F1C" />
 </a>
 <a href="https://scholar.google.com/citations?user=eqFfAEMAAAAJ&hl=en&oi=ao">
-  <img src="https://img.shields.io/badge/Google%20Scholar-eqFfAEMAAAAJ-4FD1C5?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0E1520" />
+  <img src="https://img.shields.io/badge/Google%20Scholar-eqFfAEMAAAAJ-4FD9B0?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0A1F1C" />
 </a>
 <a href="https://www.facebook.com/sanwar.islam.2024/">
-  <img src="https://img.shields.io/badge/Facebook-sanwar.islam.2024-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0E1520" />
+  <img src="https://img.shields.io/badge/Facebook-sanwar.islam.2024-2DD4A7?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0A1F1C" />
 </a>
 <a href="https://www.instagram.com/mr.raw420_/">
-  <img src="https://img.shields.io/badge/Instagram-mr.raw420__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0E1520" />
+  <img src="https://img.shields.io/badge/Instagram-mr.raw420__-2DD4A7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A1F1C" />
 </a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
@@ -273,6 +276,6 @@ status: Open to Remote ML / AI Roles
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:63B3ED,45:0E1520,100:060A10" width="100%" alt="Footer Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2DD4A7,45:0A1F1C,100:040807" width="100%" alt="Footer Wave"/>
 
 </div>
